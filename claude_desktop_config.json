@@ -1,0 +1,13 @@
+{
+    "mcpServers": {
+        "tenable_mcp": {
+            "command": "/path/to/bin/uv",
+            "args": [
+                "--directory",
+                "/path/to/mcp_server",
+                "run",
+                "tenable_mcp_blog.py"
+              ]
+          }
+      }
+  }
