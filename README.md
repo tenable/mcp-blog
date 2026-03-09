@@ -1,6 +1,6 @@
 # mcp-blog
 
-This repository contains a collection of MCP (Model Control Protocol) server implementations and configuration files related to this blog post: https://www.tenable.com/blog
+This repository contains a collection of MCP (Model Control Protocol) server implementations and configuration files related to this blog post: [https://www.tenable.com/blog](https://www.tenable.com/blog/mcp-prompt-injection-not-just-for-evil)
 
 ## Files Overview
 
